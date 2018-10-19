@@ -10,6 +10,7 @@ Version History:
 - Initial release
 - All algorithms removed except Equihash 144/5
 - Faster mining on 144/5 compared to 0.5 stable release
+- Reduces memory consumption to 1850 MByte / GPU
 - Initial tuning for GTR 2000 series 
 - Improved API
 
