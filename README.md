@@ -1,3 +1,5 @@
+# lolMiner 0.6 alpha series
+
 Alpha Releases of lolMiner 0.6
 
 Use with caution - this releases may be stable but are very experimental
@@ -37,6 +39,3 @@ undervolt may kill the performance.
 Setting for the 1080 above were founders edition stocks. 1070 was tested at
 70% PT and at stock clocks. 70% PT without undervolt gave 42 sol/s, stock 
 clocks 45 sol/s.
-
-
-
