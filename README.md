@@ -40,3 +40,13 @@ undervolt may kill the performance.
 Setting for the 1080 above were founders edition stocks. 1070 was tested at  
 70% PT and at stock clocks. 70% PT without undervolt gave 42 sol/s, stock   
 clocks 45 sol/s.
+
+New API Usage:  
+lolMiner 0.6 comes now with full http headers for the API, so the mime type   
+is correct. Therefore all browser are now compatible. 
+This also helps getting the API output with tools like curl or any mining watchdog.
+
+To call the api you now need the address /summary, e.g. localhost:8080/summary 
+if your API port was 8080. The preview version is not yet implementing the new 
+0.6 API in full (but the subset send will not change in format). 
+Next days I will put a list online with all the planned changes.
