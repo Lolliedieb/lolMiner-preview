@@ -11,6 +11,7 @@ Version History:
 - All algorithms removed except Equihash 144/5
 - Faster mining on 144/5 compared to 0.5 stable release
 - Initial tuning for GTR 2000 series 
+- Improved API
 
 
 Exspected speeds (Equihash 144/5):  
