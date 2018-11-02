@@ -28,12 +28,12 @@ Version History:
 
 Exspected speeds 
 
-Equihash 96/5:
+- Equihash 96/5:
 
 Nvidia:  
 GTX 1080: 24000 sol/s 
 
-Equihash 144/5:  
+- Equihash 144/5:  
 
 AMD:  
 RX 580: 27-29 sol/s  
@@ -47,7 +47,7 @@ GTX 1070: 40-45 sol/s
 GTX 1060: 26-30 sol/s  
 more values to be added when available  
 
-Equihash 192/7:
+ - Equihash 192/7:
 
 AMD:  
 RX 580: 17 sol/s  
