@@ -15,6 +15,8 @@ Version History:
 - Improved API module: GPU-name, PCIE topology, new statistics from stratum module
 
 
+
+
 0.6 Alpha 1 (Oct 19th 2018)  
 - Initial release
 - All algorithms removed except Equihash 144/5
@@ -24,17 +26,34 @@ Version History:
 - Improved API
 
 
-Exspected speeds (Equihash 144/5):  
+Exspected speeds 
+
+Equihash 96/5:
+
+Nvidia:  
+GTX 1080: 24000 sol/s 
+
+Equihash 144/5:  
 
 AMD:  
 RX 580: 27-29 sol/s  
 RX 560: 14 sol/s
 
 Nvidia:  
+GTR 2080: 75 sol/s
+GTX 1080 ti: 85-90 sol/s
 GTX 1080: 53-56 sol/s  
 GTX 1070: 40-45 sol/s  
 GTX 1060: 26-30 sol/s  
 more values to be added when available  
+
+Equihash 192/7:
+
+AMD:  
+RX 580: 17 sol/s  
+
+Nvidia:  
+GTX 1080: 29-30 sol/s 
 
 Tuning Guide:  
   
