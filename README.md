@@ -7,9 +7,9 @@ Use with caution - this releases may be stable but are very experimental
 
 Version History:  
 0.6 Alpha 2 (Nov 2nd 2018)  
-- Added Equihash 192/7 and 96/5
+- Added Equihash 192/7 and 96/5 (96/5 only for Nvidia, AMD will be added next week)
 - Faster mining on 192/7 compared to 0.5 stable release
-- Faster mining on 96/5 for Nvidia (AMD uses the stable 0.5 code)
+- Faster mining on 96/5 for Nvidia 
 - Memory consumption  for 192/7 reduced to 2860 MByte / GPU
 - Updated stratum interface: more failsafe and statistics about latency and timing
 - Improved API module: GPU-name, PCIE topology, new statistics from stratum module
