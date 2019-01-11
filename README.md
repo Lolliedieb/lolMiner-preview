@@ -1,11 +1,19 @@
-# lolMiner 0.6 alpha series
+# lolMiner 0.7 alpha series
 
-Alpha Releases of lolMiner 0.6
+Alpha Releases of lolMiner 0.6/0.7
 
 Use with caution - this releases may be stable but are very experimental
 
 
 Version History:  
+0.7 Alpha 1 (Jan 11th 2019)
+- Added support for BEAM
+- removed other algorithms
+- features new mining backend (lower CPU load on AMD)
+
+
+
+
 0.6 Alpha 2 (Nov 2nd 2018)  
 - Added Equihash 192/7 and 96/5 (96/5 only for Nvidia, AMD will be added next week)
 - Faster mining on 192/7 compared to 0.5 stable release
